@@ -1,5 +1,5 @@
 package devops;
 
-public interface Hello {
+public class Hello {
 
 }
